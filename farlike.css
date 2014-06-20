@@ -1,6 +1,6 @@
 body {
-background-color: #000080;
-color: #0FF;
+    color: #0FF;
+    background-color: #000080;
 }
  
 a {
@@ -21,8 +21,8 @@ color: white;
 }
  
 .current-file {
-box-shadow: none;
-background-color: #008080;
+    background-color: #008080;
+    box-shadow: none;
 }
  
 .directory + .name + span {
