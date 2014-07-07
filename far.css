@@ -60,3 +60,7 @@ a {
 .fm-header {
     color: #ffff3a;
 }
+
+.selected-file, .selected-file .name > a {
+    color: #FFFF3A;
+}
