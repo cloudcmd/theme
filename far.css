@@ -4,20 +4,20 @@ body {
 }
  
 a {
-color: #0FF;
+    color: #0FF;
 }
  
 .cmd-button {
-background-color: #008080;
-border: none;
+    background-color: #008080;
+    border: none;
 }
  
 .links a {
-color: #0FF;
+    color: #0FF;
 }
  
 .directory + span a {
-color: white;
+    color: white;
 }
  
 .current-file {
@@ -26,37 +26,37 @@ color: white;
 }
  
 .directory + .name + span {
-color:white;
+    color:white;
 }
  
 .directory + .name + .size + span {
-color:white;
+    color:white;
 }
  
 .directory + .name + .size + .owner + span {
-color:white;
+    color:white;
 }
  
 .panel {
-border: 1.5px solid #0FF;
+    border: 1.5px solid #0FF;
 }
  
 .text-file + span a {
-color: #0FF;
+    color: #0FF;
 }
  
 .text-file +.name + span {
-color: #0FF;
+    color: #0FF;
 }
  
 .text-file +.name + .size + span {
-color: #0FF;
+    color: #0FF;
 }
  
 .text-file +.name + .size + .owner + span {
-color: #0FF;
+    color: #0FF;
 }
  
 .fm-header {
-color: #ffff3a;
+    color: #ffff3a;
 }
