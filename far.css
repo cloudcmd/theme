@@ -1,28 +1,55 @@
 body {
-    color: #0FF;
     background-color: #000080;
 }
- 
-a {
-    color: #0FF;
+
+.path-icon {
+    color:#008080;
 }
- 
+
+.panel-right:focus > .reduce-text {
+    background-color:red;
+}
+
+.panel {
+    border: 1.5px solid #0FF;
+}
+
+.fm-header {
+    color: #ffff3a;
+}
+
 .cmd-button {
+    color: black;
     background-color: #008080;
     border: none;
 }
- 
+
+.cmd-button:hover {
+    border: none;
+}
+
+.cmd-button:active {
+    background-color: #008080;
+    color: black;
+    border: none;
+}
+
+.links {
+    background-color: teal;
+}
+
 .links a {
     color: #0FF;
 }
- 
-.directory + span a {
-    color: white;
-}
- 
+
 .current-file {
     background-color: #008080;
     box-shadow: none;
+}
+
+/* color of names of directories*/
+.directory + span a {
+    color: white;
 }
  
 .directory + .name + span {
@@ -36,15 +63,12 @@ a {
 .directory + .name + .size + .owner + span {
     color:white;
 }
- 
-.panel {
-    border: 1.5px solid #0FF;
-}
- 
+
+/* color of names of files*/
 .text-file + span a {
     color: #0FF;
 }
- 
+
 .text-file +.name + span {
     color: #0FF;
 }
@@ -55,12 +79,4 @@ a {
  
 .text-file +.name + .size + .owner + span {
     color: #0FF;
-}
- 
-.fm-header {
-    color: #ffff3a;
-}
-
-.selected-file, .selected-file .name > a {
-    color: #FFFF3A;
 }
