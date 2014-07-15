@@ -80,3 +80,20 @@ body {
 .text-file +.name + .size + .owner + span {
     color: #0FF;
 }
+
+/* color of names and properties of selected items */
+.selected-file .name > a {
+ color: #FFFF3A;
+}
+
+.selected-file .name + span {
+ color: #FFFF3A;
+}
+
+.selected-file .name + .size + span {
+ color: #FFFF3A;
+}
+
+.selected-file .name + .size + .owner + span {
+ color: #FFFF3A;
+}
