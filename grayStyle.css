@@ -1,3 +1,46 @@
 body {
     background-color: #A9A9A9;
 }
+
+.panel {
+    border: 1.5px solid #7CFC00;
+}
+
+.current-file {
+    box-shadow: none;
+    background-color: green;
+}
+
+
+.directory + span a {
+    color: #FFF;
+}
+
+.directory + .name + span {
+    color: #FFF;
+}
+
+.directory + .name + .size + span {
+    color: #FFF;
+}
+
+.directory + .name + .size + .owner + span {
+    color: #FFF;
+}
+
+
+.text-file + span a {
+    color: #7CFC00;
+}
+
+.text-file + .name + span {
+    color: #7CFC00;
+}
+
+.text-file + .name + .size + span {
+    color: #7CFC00;
+}
+
+.text-file + .name + .size + .owner + span {
+    color: #7CFC00;
+}
