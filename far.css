@@ -6,10 +6,6 @@ body {
     color:#008080;
 }
 
-.panel-right:focus > .reduce-text {
-    background-color:red;
-}
-
 .panel {
     border: 1.5px solid #0FF;
 }
@@ -72,16 +68,16 @@ body {
 .text-file +.name + span {
     color: #0FF;
 }
- 
+
 .text-file +.name + .size + span {
     color: #0FF;
 }
- 
+
 .text-file +.name + .size + .owner + span {
     color: #0FF;
 }
 
-/* color of names and properties of selected items */
+/* color of selected files */
 .selected-file .name > a {
  color: #FFFF3A;
 }
