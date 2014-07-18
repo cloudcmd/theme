@@ -6,6 +6,12 @@ body {
     border: 1.5px solid #7CFC00;
 }
 
+.cmd-button {
+    color: #F5F5F5;
+    background-color: #008000;
+    border: medium none;
+}
+
 .current-file {
     box-shadow: none;
     background-color: green;
