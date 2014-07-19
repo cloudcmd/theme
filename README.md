@@ -1,6 +1,6 @@
 Cloud Commander Themes
 ==============
 
-Hello, it is a repo with some themes for [Cloud Commander](http://cloudcmd.io/ "Cloud Commander").
+It is a repo with some themes for [Cloud Commander](http://cloudcmd.io/ "Cloud Commander").
 
-There is only one theme, but we will make and place there 
+Nowadays there are only one complete theme, and one that is in development stage.
