@@ -1,19 +1,33 @@
+/* color of background */
 body {
     background-color: #000080;
 }
 
+/* color of border of panels */
+.panel {
+    border: 1.5px solid #0FF;
+}
+
+/* color of clean and refresh buttons */
 .path-icon {
     color:#008080;
 }
 
-.panel {
-    border: 1.5px solid #0FF;
+/* color of background of path */
+.links {
+    background-color: teal;
+}
+
+/* color of links of path */
+.links a {
+    color: #0FF;
 }
 
 .fm-header {
     color: #ffff3a;
 }
 
+/* button styles */
 .cmd-button {
     color: black;
     background-color: #008080;
@@ -30,14 +44,7 @@ body {
     border: none;
 }
 
-.links {
-    background-color: teal;
-}
-
-.links a {
-    color: #0FF;
-}
-
+/* color of background of cursor */
 .current-file {
     background-color: #008080;
     box-shadow: none;
