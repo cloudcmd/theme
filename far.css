@@ -10,7 +10,7 @@ body {
 
 /* color of clean and refresh buttons */
 .path-icon {
-    color:#008080;
+    color: #ffff3a;
 }
 
 /* color of background of path */
@@ -23,6 +23,7 @@ body {
     color: #0FF;
 }
 
+/* color of header of panels */
 .fm-header {
     color: #ffff3a;
 }
