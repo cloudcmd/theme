@@ -5,7 +5,7 @@ body {
 
 /* color of border of panels */
 .panel {
-    border: 1.5px solid #0FF;
+    border: 4px double #0FF;
 }
 
 /* color of clean and refresh buttons */
