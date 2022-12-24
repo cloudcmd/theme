@@ -11,10 +11,10 @@ For now there is no easy way around this.
 
 #
 ## List
- - [Far](far.css)
+ - [Far](themes/far.css)
  ![dark](imgs/far.png)
- - [Gray](grayStyle.css) (dev version)
+ - [Gray](themes/grayStyle.css) (dev version)
  ![dark](imgs/gray.png)
- - [Dark](dark.css) (dark)
+ - [Dark](themes/dark.css) (dark)
  ![dark](imgs/dark.png)
 
