@@ -1,0 +1,229 @@
+/* color of background */
+body {
+    background-color: #333;
+}
+
+/* color of border of panels */
+.panel {
+    border: 3px dotted #aaa;
+    border-radius: 8px;
+}
+
+/* color of clean and refresh buttons */
+.path-icon {
+    color: white;
+}
+
+/* color of background of path */
+.links {
+    background-color: transparent;
+}
+
+/* color of links of path */
+.links a {
+    color: white;
+}
+
+html {
+    color: #aaa;
+}
+
+/* color of header of panels */
+.fm-header {
+    color: white;
+}
+
+/* button styles */
+.cmd-button {
+    color: white;
+    background-color: #337ab7;
+    border: 1px solid #337ab7;
+    border-radius: 8px;
+}
+
+.cmd-button:hover {
+    border: none;
+}
+
+.cmd-button:active {
+    background-color: #008080;
+    color: white;
+    border: none;
+}
+
+/* color of background of cursor */
+.current-file {
+    background-color: #007373;
+    box-shadow: none;
+    border: 1px solid #007373;
+    border-radius: 4px;
+    padding: 1px;
+    color: white;
+}
+
+.current-file .directory-link+span a {
+    color: #153651 !important;
+}
+
+.current-file .directory-link+span {
+    color: #e5e5e5 !important;
+}
+
+.current-file .file+span a {
+    color: #153651 !important;
+}
+
+.current-file .file+span {
+    color: #e5e5e5 !important;
+}
+
+.directory+span a {
+    color: white;
+}
+
+.current-file .directory+.name+span {
+    color: white;
+}
+
+.current-file .directory+.name+.size+span {
+    color: white;
+}
+
+.current-file .directory+.name+.size+.owner+span {
+    color: white;
+}
+
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+/* color of names of directories*/
+.directory+span a {
+    color: white;
+}
+
+.directory+.name+span {
+    color: #aaa;
+}
+
+.directory+.name+.size+span {
+    color: #aaa;
+}
+
+.directory+.name+.size+.owner+span {
+    color: #aaa;
+}
+
+/* color of names of files*/
+.text-file+span a {
+    color: #aaa;
+}
+
+.text-file+.name+span {
+    color: #aaa;
+}
+
+.text-file+.name+.size+span {
+    color: #aaa;
+}
+
+.text-file+.name+.size+.owner+span {
+    color: #aaa;
+}
+
+/* Menu */
+.menu {
+    background-color: #333 !important;
+    border: 2px dotted #aaa !important;
+    border-radius: 4px !important;
+    color: white !important;
+}
+
+.menu-item:hover {
+    background-color: #007373 !important;
+}
+
+.cloudcmd-user-menu-button {
+    background-color: #2d2d2d;
+    color: #ccc;
+}
+
+.cloudcmd-user-menu {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding-top: 5px;
+}
+
+.smalltalk .page {
+    background-color: #333 !important;
+    border: 1px solid #aaa !important;
+    border-radius: 4px !important;
+    color: white !important;
+}
+
+.smalltalk .page header {
+    color: white !important;
+    text-shadow: none !important;
+}
+
+.smalltalk input {
+    border-radius: 4px;
+    margin-bottom: 2px;
+    background-color: #474747;
+    color: white !important;
+}
+
+.smalltalk button {
+    color: white !important;
+    background-color: #337ab7 !important;
+    border: 1px solid #337ab7 !important;
+    border-radius: 8px !important;
+    background-image: none !important;
+    text-shadow: none !important;
+    box-shadow: none !important;
+}
+
+/* Settings */
+.view {
+    background-color: #333;
+    border: 2px dotted #aaa;
+    border-radius: 4px;
+    color: white;
+}
+
+.form-control {
+    border-radius: 4px;
+    margin-bottom: 2px;
+    background-color: #474747;
+    color: white !important;
+}
+
+.form-control:disabled {
+    background-color: #383838;
+    color: #ccc !important;
+}
+
+/* Console */
+.jqconsole {
+    background-color: #333 !important;
+}
+
+.jqconsole-prompt {
+    color: #4AF626 !important;
+}
+
+.jqconsole-prompt-text {
+    color: #ccc !important;
+}
+
+.log-msg {
+    background-color: #3f3f3f !important;
+    color: #ccc !important;
+}
+
+.error-msg {
+    background-color: #3f3f3f !important;
+    color: red !important;
+}
