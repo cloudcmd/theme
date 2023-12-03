@@ -55,9 +55,7 @@ html {
 .current-file {
     background-color: #007373;
     box-shadow: none;
-    border: 1px solid #007373;
     border-radius: 4px;
-    padding: 1px;
     color: white;
 }
 
